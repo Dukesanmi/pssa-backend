@@ -1,0 +1,199 @@
+#side-menu >li>a {
+    position: relative;
+    display: block;
+    padding: 24px 21px!important;
+}
+
+.logo_min {
+    padding: 8px 16px;
+}
+.logo_min img {
+    max-width: 33px;
+}
+    .logo_min span{
+        font-family: 'Montserrat', sans-serif;
+    }
+    .logo_min span {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding-left: 11px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    font-weight: 500;
+    color: #636363;
+}
+.search_custom {
+    padding: 0px 15px;
+    padding-top: 25px;
+    padding-bottom: 20px;
+}
+.search_custom2 {
+    padding: 0px 15px;
+    padding-top: 0px;
+    padding-bottom: 20px;
+}
+  .dropdown2 button.btn.btn-primary.dropdown-toggle {
+    width: 100%;
+} 
+.search_custom2 .dropdown-menu {
+    min-width: 17rem;
+}
+.search_custom2.dropdown-menu.show {
+    transform: translate3d(14px, 177px, 0px);
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #00acff;
+    border: none;
+}
+.btn-primary.focus, .btn-primary:focus {
+    box-shadow: none;
+    border-color: #00acff00;
+}
+.form-control:focus {
+    border-color: #80bdff00;
+    box-shadow: none;
+}
+.content_list_side_bar ul li{
+ list-style-type: decimal;
+ margin-bottom: 3px;
+ color: #ff5100;
+}
+
+.content_list_side_bar ul {
+    padding-left: 35px;
+    padding-right: 15px;
+        padding-bottom: 192px;
+}
+
+.content_list_side_bar span{
+     display: block;
+    text-align: end;
+}
+.content_list_side_bar span {
+    display: block;
+    text-align: end;
+    color: #ff5100;
+    font-size: 11px;
+   border-bottom: 1px solid #84848429;
+    padding-bottom: 2px;
+}
+ .dropdown2 .btn-primary {
+    color: #fff;
+    background-color: #ff5000;
+    border-color: #ff5000;
+}
+.content_list_side_bar ul li {
+    list-style-type: decimal;
+    margin-bottom: 3px;
+    color: #383838;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+}
+.logo_min {
+    padding: 8px 16px;
+    border-bottom: 1px solid #00000024;
+}
+.btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
+    box-shadow: none;
+}
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
+    color: #fff;
+    background-color: #ff5100;
+    border: none;
+}
+.btn.focus, .btn:focus {
+    outline: 0;
+    box-shadow: none;
+}
+.form-control:focus {
+    border: 1px solid #ced4da;
+}
+
+#map {
+    height: 100%;
+    background: black;
+}
+
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+/*td, th {
+  border: 0px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}*/
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+tr:nth-child(even) {
+    background-color: #0590d30d;
+}
+th {
+  color: #ffffff;
+}
+.map_full_box{
+    margin-left: 20%;
+    overflow: hidden;
+}
+h3 {
+    padding-left: 7px;
+}
+.table_scrol_bar{
+    height: 100%;
+}
+.table_scrol_inner {
+    height: 392px;
+    overflow: hidden;
+    overflow-y: scroll;
+    padding-bottom: 201px;
+}
+th {
+  background: #ff5000;
+  position: sticky;
+  top: 0; /* Don't forget this, required for the stickiness */
+}
+.w3-sidebar {
+    height: 100%;
+    width: 384px;
+    overflow: hidden;
+}
+/*.content_list_side_bar {
+    overflow: scroll;
+    height: 100vh;
+    width: 100%;
+    
+}*/
+.content_list_side_bar_slide {
+    height: 100%;
+}
+::-webkit-scrollbar {
+  width: 3px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+  background: #ff5000; 
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e24700; 
+}
+.w3-sidebar {
+    height: 100%;
+    width: 20%;
+    overflow: hidden;
+}
+.map_full_box {
+    overflow: hidden;
+    width: 80%;
+    margin-left: auto;
+}
+.search_custom2 .dropdown-menu {
+    min-width: 23.5rem;
+}
